@@ -1,0 +1,7 @@
+C:\Users\Metin\Desktop\C# repos\8pzlle\8pzlle\bin\Debug\8pzlle.exe.config
+C:\Users\Metin\Desktop\C# repos\8pzlle\8pzlle\bin\Debug\8pzlle.exe
+C:\Users\Metin\Desktop\C# repos\8pzlle\8pzlle\bin\Debug\8pzlle.pdb
+C:\Users\Metin\Desktop\C# repos\8pzlle\8pzlle\obj\Debug\8pzlle.csproj.AssemblyReference.cache
+C:\Users\Metin\Desktop\C# repos\8pzlle\8pzlle\obj\Debug\8pzlle.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Desktop\C# repos\8pzlle\8pzlle\obj\Debug\8pzlle.exe
+C:\Users\Metin\Desktop\C# repos\8pzlle\8pzlle\obj\Debug\8pzlle.pdb
